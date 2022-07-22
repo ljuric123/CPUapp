@@ -1,0 +1,16 @@
+D:\c#\posttest\bin\Debug\net5.0\posttest.exe
+D:\c#\posttest\bin\Debug\net5.0\posttest.deps.json
+D:\c#\posttest\bin\Debug\net5.0\posttest.runtimeconfig.json
+D:\c#\posttest\bin\Debug\net5.0\posttest.runtimeconfig.dev.json
+D:\c#\posttest\bin\Debug\net5.0\posttest.dll
+D:\c#\posttest\bin\Debug\net5.0\ref\posttest.dll
+D:\c#\posttest\bin\Debug\net5.0\posttest.pdb
+D:\c#\posttest\obj\Debug\net5.0\posttest.csproj.AssemblyReference.cache
+D:\c#\posttest\obj\Debug\net5.0\posttest.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\posttest\obj\Debug\net5.0\posttest.AssemblyInfoInputs.cache
+D:\c#\posttest\obj\Debug\net5.0\posttest.AssemblyInfo.cs
+D:\c#\posttest\obj\Debug\net5.0\posttest.csproj.CoreCompileInputs.cache
+D:\c#\posttest\obj\Debug\net5.0\posttest.dll
+D:\c#\posttest\obj\Debug\net5.0\ref\posttest.dll
+D:\c#\posttest\obj\Debug\net5.0\posttest.pdb
+D:\c#\posttest\obj\Debug\net5.0\posttest.genruntimeconfig.cache
